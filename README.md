@@ -26,6 +26,9 @@ This quiz app was created by Debarshi Chakma.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+![Screenshot (43)](https://user-images.githubusercontent.com/73898025/226488642-7e81a662-35c7-4cf4-ae38-e6ee19231e62.png)
+
+
 Acknowledgments
 We would like to thank the following resources for their guidance and inspiration in creating this quiz app:
 
