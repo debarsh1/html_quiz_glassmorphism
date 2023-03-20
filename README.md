@@ -35,4 +35,4 @@ Stack Overflow
 W3Schools
 And many more...
 Contact
-If you have any questions or suggestions about this quiz app, please contact us at your-email-address@domain.com.
+If you have any questions or suggestions about this quiz app, please contact us at debarshi11@ryuz.in.
